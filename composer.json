@@ -1,5 +1,5 @@
 {
-    "name": "cicada/dev-tools",
+    "name": "cicada-ag/dev-tools",
     "require": {
         "doctrine/sql-formatter": "^1.1",
         "fakerphp/faker": "^1.20",
